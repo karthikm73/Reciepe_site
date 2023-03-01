@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reciepe_site/static/css/main.fb49d550.css",
+    "main.js": "/Reciepe_site/static/js/main.7a5a3f92.js",
+    "index.html": "/Reciepe_site/index.html",
+    "main.fb49d550.css.map": "/Reciepe_site/static/css/main.fb49d550.css.map",
+    "main.7a5a3f92.js.map": "/Reciepe_site/static/js/main.7a5a3f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb49d550.css",
+    "static/js/main.7a5a3f92.js"
+  ]
+}
